@@ -1,0 +1,3 @@
+# Szamkitalalos
+hazifeladatszamkitalalos
+óraimunkaotthonibefejezése
